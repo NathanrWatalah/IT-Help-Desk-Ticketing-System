@@ -5,7 +5,7 @@ A web-based Help Desk Ticketing System designed to simulate a real IT support en
  Live Demo
 
 Help Desk Portal:
-https://sites.google.com/view/your-helpdesk-site
+https://sites.google.com/view/nathanhelpdesk/home
 
  Project Overview
 
